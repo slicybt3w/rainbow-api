@@ -11,6 +11,7 @@
   "license": "ISC",
     "dependencies": {
     "discord.js": "*",
+"rainbow-api": "github:namekinggamerboy/rainbow-api#e5639c33d492e707c29187c17d31b88849929739",
     "express": "^4.17.1",
     "foreach-timeout": "*"
   },
